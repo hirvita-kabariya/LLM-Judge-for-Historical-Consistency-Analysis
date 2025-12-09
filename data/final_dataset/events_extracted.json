@@ -1,0 +1,949 @@
+[
+  {
+    "source_id": "book_6812",
+    "source_title": "Abraham Lincoln: a History — Volume 01",
+    "source_type": "Book",
+    "event_id": "election_night_1860",
+    "event_name": "Election Night 1860",
+    "extraction": {
+      "event": "election_night_1860",
+      "author": "John G. Nicolay and John Hay",
+      "claims": [
+        "The authors knew Mr. Lincoln intimately before his election to the Presidency.",
+        "The authors came from Illinois to Washington with Lincoln.",
+        "The authors remained at Lincoln's side and in his service until the day of his death.",
+        "The authors were daily and nightly witnesses of incidents, anxieties, fears, and hopes in the Executive Mansion and National Capital.",
+        "The President's correspondence, both official and private, passed through the authors."
+      ],
+      "temporal_details": {
+        "date": null,
+        "time": null
+      },
+      "tone": "Supportive"
+    }
+  },
+  {
+    "source_id": "book_6812",
+    "source_title": "Abraham Lincoln: a History — Volume 01",
+    "source_type": "Book",
+    "event_id": "fort_sumter",
+    "event_name": "Fort Sumter decision",
+    "extraction": {
+      "event": "fort_sumter",
+      "author": "John G. Nicolay and John Hay",
+      "claims": [
+        "The company of which Mr. Lincoln was a member was mustered out by Lieutenant Robert Anderson, who, in April, 1861, was in command of Fort Sumter.",
+        "There is no evidence to show that it was mustered in by Lieutenant Jefferson Davis.",
+        "Mr. Davis's company (B, First United States Infantry) was stationed at Fort Crawford, Wisconsin, during January and February, 1832.",
+        "Jefferson Davis is borne on the rolls as 'absent on detached service at the Dubuque mines by order of Colonel Morgan.'",
+        "From March 26 to August 18, 1832, the muster-rolls of Davis's company are relevant."
+      ],
+      "temporal_details": {
+        "date": [
+          "April, 1861",
+          "January and February, 1832",
+          "March 26 to August 18, 1832",
+          "June 12-15, 1832",
+          "June 16, 1832"
+        ],
+        "time": null
+      },
+      "tone": "Neutral"
+    }
+  },
+  {
+    "source_id": "book_6812",
+    "source_title": "Abraham Lincoln: a History — Volume 01",
+    "source_type": "Book",
+    "event_id": "gettysburg_address",
+    "event_name": "Gettysburg Address",
+    "extraction": {
+      "event": "gettysburg_address",
+      "author": "John G. Nicolay and John Hay",
+      "claims": [
+        "The speech discussed was the last and most important of its class which Abraham Lincoln ever delivered.",
+        "The speech was not destitute of sound and close reasoning.",
+        "The speech was filled with boisterous fun and florid rhetoric.",
+        "It was a rattling stump speech of the kind then universally popular in the West.",
+        "Such speeches are still considered a very high grade of eloquence in the South.",
+        "The speech is of no kindred with Lincoln's inaugural addresses.",
+        "The speech resembles the Gettysburg speech no more than 'The Comedy of Errors' resembles 'Hamlet.'",
+        "The speech attacked the corruptions and defalcations of the Administration party."
+      ],
+      "temporal_details": {
+        "date": null,
+        "time": null
+      },
+      "tone": "Critical"
+    }
+  },
+  {
+    "source_id": "book_6812",
+    "source_title": "Abraham Lincoln: a History — Volume 01",
+    "source_type": "Book",
+    "event_id": "second_inaugural",
+    "event_name": "Second Inaugural Address",
+    "extraction": {
+      "event": "second_inaugural",
+      "author": "John G. Nicolay and John Hay",
+      "claims": [
+        "The speech described was the most important and the last of its class which Lincoln ever delivered.",
+        "The speech was not destitute of sound and close reasoning, yet filled with boisterous fun and florid rhetoric.",
+        "It was a rattling stump speech, popular in the West and considered a high grade of eloquence in the South.",
+        "The speech is of no kindred with Lincoln's inaugural addresses and resembles the Gettysburg speech no more than 'The Comedy of Errors' resembles 'Hamlet.'",
+        "Only a few hours afterwards, in a dignified and stately national ceremonial, the new President of the United States delivered to the people his inaugural address.",
+        "High and low were alike intent to discern the opening political currents of the new Administration.",
+        "None touched or approached this particular subject (implied: the breach of faith or annexation).",
+        "The aspirations of 'Young America' were not towards a conquest of the North, but the enlargement of the South.",
+        "A freshening breeze filled the sails of 'annexation' and 'manifest destiny.'"
+      ],
+      "temporal_details": {
+        "date": null,
+        "time": "Only a few hours afterwards"
+      },
+      "tone": "Neutral"
+    }
+  },
+  {
+    "source_id": "book_6811",
+    "source_title": "The Life of Abraham Lincoln",
+    "source_type": "Book",
+    "event_id": "election_night_1860",
+    "event_name": "Election Night 1860",
+    "extraction": {
+      "event": "election_night_1860",
+      "author": "Henry Ketcham",
+      "claims": [
+        "Abraham Lincoln was nominated in 1860.",
+        "There was an election in 1860.",
+        "The book contains a chapter titled 'The Election'.",
+        "The book contains a chapter titled 'The Nomination of 1860'."
+      ],
+      "temporal_details": {
+        "date": "1860",
+        "time": null
+      },
+      "tone": "Neutral"
+    }
+  },
+  {
+    "source_id": "book_6811",
+    "source_title": "The Life of Abraham Lincoln",
+    "source_type": "Book",
+    "event_id": "fort_sumter",
+    "event_name": "Fort Sumter decision",
+    "extraction": {
+      "event": "fort_sumter",
+      "author": "Henry Ketcham",
+      "claims": [
+        "Lincoln gave General Scott an order to employ every means in his power to strengthen and hold the forts.",
+        "The domestic policy included not proposing to abandon Fort Sumter.",
+        "The policy had the distinct approval of the addressed party at the time.",
+        "The reinforcement of Fort Sumter was not perceived as being done on a slavery or party issue.",
+        "The reinforcement of Fort Pickens was considered to be on a more national and patriotic issue."
+      ],
+      "temporal_details": {
+        "date": null,
+        "time": null
+      },
+      "tone": "Neutral"
+    }
+  },
+  {
+    "source_id": "book_6811",
+    "source_title": "The Life of Abraham Lincoln",
+    "source_type": "Book",
+    "event_id": "gettysburg_address",
+    "event_name": "Gettysburg Address",
+    "extraction": {
+      "event": "gettysburg_address",
+      "author": "Henry Ketcham",
+      "claims": [
+        "Lincoln's reading of five key books contributed to the majesty, simplicity, and elegance of his Gettysburg Address.",
+        "Lincoln was a diligent reader of newspapers, especially the Louisville Journal, edited by George D. Prentice.",
+        "George C. Meade succeeded Hooker as commander shortly before the Battle of Gettysburg.",
+        "The Battle of Gettysburg was fought under Meade and resulted in a brilliant victory.",
+        "The victory at Gettysburg was marred by disappointment because the victorious army allowed the defeated army to escape.",
+        "Similar excuses for not pursuing the defeated army were given at both Antietam and Gettysburg, namely that the troops were tired."
+      ],
+      "temporal_details": {
+        "date": null,
+        "time": null
+      },
+      "tone": "Critical"
+    }
+  },
+  {
+    "source_id": "book_6811",
+    "source_title": "The Life of Abraham Lincoln",
+    "source_type": "Book",
+    "event_id": "second_inaugural",
+    "event_name": "Second Inaugural Address",
+    "extraction": {
+      "event": "second_inaugural",
+      "author": "Henry Ketcham",
+      "claims": [
+        "The second inaugural address took place on March 4, 1865.",
+        "Lincoln had no new policy to proclaim in the second inaugural address.",
+        "Lincoln intended to continue the policy of the past four years.",
+        "The country had shown its approval of Lincoln's policy by reelecting him.",
+        "The end of the war was almost in sight at the time of the second inaugural address.",
+        "The second inaugural address contains an intangible spirit which gives it marvelous grandeur.",
+        "There is a wide difference between the House-divided-against-itself speech and the second inaugural address.",
+        "The seven years between the House-divided-against-itself speech and the second inaugural address were years of great stress, which contributed to Lincoln's growth of mind and spirit."
+      ],
+      "temporal_details": {
+        "date": "1865-03-04",
+        "time": null
+      },
+      "tone": "Supportive"
+    }
+  },
+  {
+    "source_id": "book_6811",
+    "source_title": "The Life of Abraham Lincoln",
+    "source_type": "Book",
+    "event_id": "ford_assassination",
+    "event_name": "Ford's Theatre assassination",
+    "extraction": {
+      "event": "ford_assassination",
+      "author": "Henry Ketcham",
+      "claims": [
+        "The firm of Lincoln and Herndon continued until the assassination of the president in 1865."
+      ],
+      "temporal_details": {
+        "date": "1865",
+        "time": null
+      },
+      "tone": "Neutral"
+    }
+  },
+  {
+    "source_id": "book_12801",
+    "source_title": "Abraham Lincoln, Volume II",
+    "source_type": "Book",
+    "event_id": "election_night_1860",
+    "event_name": "Election Night 1860",
+    "extraction": {
+      "event": "election_night_1860",
+      "author": "John T. Morse, Jr.",
+      "claims": [
+        "The States in rebellion maintain hope that other States will eventually join their proposed Confederacy.",
+        "The lever of power for the rebellious States is the perpetuation of the institution within other States.",
+        "Beating the rebellious States at election does not daunt them; they still claim other States as their own.",
+        "Breaking the lever of power (the institution) will prevent the rebellious States from influencing other States."
+      ],
+      "temporal_details": {
+        "date": null,
+        "time": null
+      },
+      "tone": "Supportive"
+    }
+  },
+  {
+    "source_id": "book_12801",
+    "source_title": "Abraham Lincoln, Volume II",
+    "source_type": "Book",
+    "event_id": "fort_sumter",
+    "event_name": "Fort Sumter decision",
+    "extraction": {
+      "event": "fort_sumter",
+      "author": "John T. Morse, Jr.",
+      "claims": [
+        "Cameron, Simon, opposes relieving Fort Sumter.",
+        "Buchanan's policy towards Fort Sumter was futile."
+      ],
+      "temporal_details": {
+        "date": null,
+        "time": null
+      },
+      "tone": "Critical"
+    }
+  },
+  {
+    "source_id": "book_12801",
+    "source_title": "Abraham Lincoln, Volume II",
+    "source_type": "Book",
+    "event_id": "gettysburg_address",
+    "event_name": "Gettysburg Address",
+    "extraction": {
+      "event": "gettysburg_address",
+      "author": "John T. Morse, Jr.",
+      "claims": [
+        "The battle of Antietam occurred less than three weeks after a gloomy event.",
+        "Antietam was not a satisfactory military success but was considered a victory by the North.",
+        "President Lincoln finished writing the second draft of a proclamation at the Soldiers' Home.",
+        "Lincoln called the cabinet together to hear the proclamation in Washington on a Saturday.",
+        "The proclamation was published on Monday, September 22, 1862.",
+        "The proclamation was preliminary and did not promise universal emancipation.",
+        "The armies maneuvered and drew together for three days before the battle at Gettysburg.",
+        "The place of battle was the village of Gettysburg, and the time was the morning of July 1.",
+        "The battle of Gettysburg lasted three days and was a famous and bloody fight.",
+        "The Confederates assailed and the Federals defended the ridges at Gettysburg."
+      ],
+      "temporal_details": {
+        "date": "July 1",
+        "time": "morning"
+      },
+      "tone": "Neutral"
+    }
+  },
+  {
+    "source_id": "book_12801",
+    "source_title": "Abraham Lincoln, Volume II",
+    "source_type": "Book",
+    "event_id": "second_inaugural",
+    "event_name": "Second Inaugural Address",
+    "extraction": {
+      "event": "second_inaugural",
+      "author": "John T. Morse, Jr.",
+      "claims": [
+        "The second inaugural was delivered from the eastern portico of the Capitol.",
+        "Lincoln viewed his call to a second term as an expression of public judgment that he may better finish a difficult work than anyone less severely schooled to the task.",
+        "Mere conquest was not, in Lincoln's opinion, a finishing of the difficult work of restoring a Union.",
+        "Lincoln's second inaugural address was delivered at the expiration of four years since his first inaugural.",
+        "Governor Dennison, who later became postmaster-general, was present at the delivery of the speech.",
+        "Mr. Arnold gives a vivid description of the delivery of the speech, partly derived from Governor Dennison."
+      ],
+      "temporal_details": {
+        "date": null,
+        "time": null
+      },
+      "tone": "Neutral"
+    }
+  },
+  {
+    "source_id": "book_12801",
+    "source_title": "Abraham Lincoln, Volume II",
+    "source_type": "Book",
+    "event_id": "ford_assassination",
+    "event_name": "Ford's Theatre assassination",
+    "extraction": {
+      "event": "ford_assassination",
+      "author": "John T. Morse, Jr.",
+      "claims": [
+        "General Grant and his wife were in Washington on the day of the assassination.",
+        "President Lincoln invited General Grant and his wife to go with him to see the play at Ford's Theatre in the evening.",
+        "Personal engagements called General Grant and his wife northward, so they did not attend.",
+        "In the afternoon, President Lincoln drove out with his wife.",
+        "Mrs. Lincoln remarked to the President that she had seen him in such good spirits only once before, just before their son Willie died.",
+        "Plans for the assassination had been laid and changed for months, and opportunities had been awaited and lost.",
+        "Only a part of the whole great scheme of the plotters was carried out due to delays.",
+        "At the same time as the tragedy at Ford's Theatre, an assault was perpetrated upon Mr. Seward.",
+        "Mr. Seward was confined to his bed by injuries from a recent accident.",
+        "The assassin gained admission to Seward's house under the pretense of bringing medicine.",
+        "The assassin reached Seward's bedroom and stabbed him about the face and neck.",
+        "The assassin wounded two sons of Mr. Seward and two male nurses in turn."
+      ],
+      "temporal_details": {
+        "date": null,
+        "time": "evening"
+      },
+      "tone": "Neutral"
+    }
+  },
+  {
+    "source_id": "book_14004",
+    "source_title": "The Every-day Life of Abraham Lincoln",
+    "source_type": "Book",
+    "event_id": "election_night_1860",
+    "event_name": "Election Night 1860",
+    "extraction": {
+      "event": "election_night_1860",
+      "author": "Francis F. Browne",
+      "claims": [
+        "Lincoln was chosen President.",
+        "The election of 1860 took place.",
+        "There was a waiting-time at Springfield after the election.",
+        "Lincoln received a deluge of visitors during this period.",
+        "Various impressions of the President-Elect were recorded.",
+        "Lincoln had some queer callers.",
+        "Lincoln looked over the situation with friends.",
+        "Lincoln had talks about the Cabinet.",
+        "Thurlow Weed visited Lincoln in Springfield.",
+        "National affairs had a serious aspect.",
+        "The South was in rebellion.",
+        "There was treason at the National Capital.",
+        "Lincoln made a farewell visit to his mother."
+      ],
+      "temporal_details": {
+        "date": "1860",
+        "time": null
+      },
+      "tone": "Neutral"
+    }
+  },
+  {
+    "source_id": "book_14004",
+    "source_title": "The Every-day Life of Abraham Lincoln",
+    "source_type": "Book",
+    "event_id": "fort_sumter",
+    "event_name": "Fort Sumter decision",
+    "extraction": {
+      "event": "fort_sumter",
+      "author": "Francis F. Browne",
+      "claims": [
+        "Lincoln and Anderson did not meet again until 1861, after Anderson had evacuated Fort Sumter.",
+        "Major Anderson visited Washington and called at the White House to pay his respects to President Lincoln.",
+        "Lincoln expressed thanks to Anderson for his conduct in South Carolina.",
+        "Lincoln asked Anderson if he remembered meeting him before; Anderson did not recall, but Lincoln did.",
+        "Precautions at the White House were taken before Fort Sumter was fired on, as well as afterward.",
+        "Anyone entering the White House grounds was under the view of at least two riflemen in the shrubbery.",
+        "Any suspicious movement by an entrant would have caused immediate arrest.",
+        "Inside the White House, the call of Captain Todd would have been promptly answered by armed men.",
+        "General Stone inspected the White House guard one night near midnight and saw a bright light in the East room.",
+        "General Stone heard a loud noise of many voices and the ringing of arms coming from the great reception room."
+      ],
+      "temporal_details": {
+        "date": "1861",
+        "time": "night (for General Stone's inspection); near midnight (for General Stone's inspection)"
+      },
+      "tone": "Supportive"
+    }
+  },
+  {
+    "source_id": "book_14004",
+    "source_title": "The Every-day Life of Abraham Lincoln",
+    "source_type": "Book",
+    "event_id": "gettysburg_address",
+    "event_name": "Gettysburg Address",
+    "extraction": {
+      "event": "gettysburg_address",
+      "author": "Francis F. Browne",
+      "claims": [
+        "Lee invaded Pennsylvania in the summer of 1863.",
+        "There was a change of Union commanders; Meade succeeded Hooker.",
+        "The Battle of Gettysburg occurred.",
+        "Lincoln was anxious during the Battle of Gettysburg.",
+        "Lee retreated after the battle.",
+        "Union victories occurred in the Southwest.",
+        "Vicksburg was captured by Union forces.",
+        "Lincoln thanked Grant for his success.",
+        "There was returning cheerfulness in the North after these victories.",
+        "The administration was sustained in the state elections of 1863.",
+        "The National Cemetery at Gettysburg was dedicated.",
+        "Lincoln delivered an address at the dedication.",
+        "Scenes and incidents occurred at the dedication, including a meeting with John Burns.",
+        "Edward Everett had impressions of Lincoln at the event."
+      ],
+      "temporal_details": {
+        "date": "1863",
+        "time": null
+      },
+      "tone": "Neutral"
+    }
+  },
+  {
+    "source_id": "book_14004",
+    "source_title": "The Every-day Life of Abraham Lincoln",
+    "source_type": "Book",
+    "event_id": "second_inaugural",
+    "event_name": "Second Inaugural Address",
+    "extraction": {
+      "event": "second_inaugural",
+      "author": "Francis F. Browne",
+      "claims": [
+        "The Second Inauguration and Second Inaugural Address of Abraham Lincoln took place.",
+        "Lincoln's Second Inaugural Address included the phrase 'With Malice toward None, with Charity for All.'",
+        "The year 1864 witnessed another Presidential election, held during armed rebellion against the National Government.",
+        "The election was not participated in by all voters due to the rebellion.",
+        "A sunburst occurred during Lincoln's inauguration, which made his heart jump.",
+        "Cheers and shouts greeted Lincoln as he prepared to speak his inaugural address.",
+        "Lincoln paused before beginning his address, as though thronging memories impeded utterance.",
+        "Lincoln spoke in a clear voice at his inauguration."
+      ],
+      "temporal_details": {
+        "date": "1864",
+        "time": null
+      },
+      "tone": "Supportive"
+    }
+  },
+  {
+    "source_id": "book_14004",
+    "source_title": "The Every-day Life of Abraham Lincoln",
+    "source_type": "Book",
+    "event_id": "ford_assassination",
+    "event_name": "Ford's Theatre assassination",
+    "extraction": {
+      "event": "ford_assassination",
+      "author": "Francis F. Browne",
+      "claims": [
+        "It had been decided early in the day that the President and Mrs. Lincoln would attend Ford's Theatre in the evening, to witness the play of 'The American Cousin.'",
+        "Lincoln had invited General Grant to accompany his party to the theatre, saying that the people would expect to see him and should not be disappointed.",
+        "General Grant declined the invitation, as Mrs. Grant was anxious to start that afternoon to visit their children, who were at school in Burlington, New Jersey.",
+        "Lincoln approved an application for the discharge, on taking the oath of allegiance, of a Southern prisoner, on whose petition he wrote, 'Let it be done.'",
+        "This act of mercy was his last official order."
+      ],
+      "temporal_details": {
+        "date": null,
+        "time": "evening"
+      },
+      "tone": "Neutral"
+    }
+  },
+  {
+    "source_id": "book_18379",
+    "source_title": "Abraham Lincoln",
+    "source_type": "Book",
+    "event_id": "election_night_1860",
+    "event_name": "Election Night 1860",
+    "extraction": {
+      "event": "election_night_1860",
+      "author": "Lord Charnwood",
+      "claims": [
+        "Abraham Lincoln was elected President.",
+        "There is a chapter or section titled 'The Election of Lincoln as President' in the book.",
+        "The book covers topics such as Lincoln's rise, secession, the Civil War, emancipation, and his second election."
+      ],
+      "temporal_details": {
+        "date": null,
+        "time": null
+      },
+      "tone": "Neutral"
+    }
+  },
+  {
+    "source_id": "book_18379",
+    "source_title": "Abraham Lincoln",
+    "source_type": "Book",
+    "event_id": "fort_sumter",
+    "event_name": "Fort Sumter decision",
+    "extraction": {
+      "event": "fort_sumter",
+      "author": "Lord Charnwood",
+      "claims": [
+        "Anderson's withdrawal to Fort Sumter was declared by South Carolina as an act of war.",
+        "South Carolina demanded that Anderson be ordered to retire to the mainland.",
+        "President Buchanan wavered on the issue and decided to yield to South Carolina's demand, but ultimately, on the last day of 1860, yielded to pressure from Black and decided to reinforce Anderson at Fort Sumter.",
+        "The attempt to reinforce Anderson was bungled; a transport sent for this purpose was fired upon by South Carolina forces and returned without success.",
+        "This first act of war caused no excitement.",
+        "The people of the North were relieved that Buchanan had not yielded to South Carolina's demands.",
+        "Anderson remained without reinforcements or further provisions when Lincoln entered office.",
+        "Troops in the service of South Carolina and later the Southern Confederacy erected batteries and prepared to bombard Fort Sumter.",
+        "President Buchanan is not considered to have intentionally betrayed the Union.",
+        "The Southern Congress resolved to take over forts and other property in the seceded States that had belonged to the Union."
+      ],
+      "temporal_details": {
+        "date": "1860-12-31",
+        "time": null
+      },
+      "tone": "Critical"
+    }
+  },
+  {
+    "source_id": "book_18379",
+    "source_title": "Abraham Lincoln",
+    "source_type": "Book",
+    "event_id": "gettysburg_address",
+    "event_name": "Gettysburg Address",
+    "extraction": {
+      "event": "gettysburg_address",
+      "author": "Lord Charnwood",
+      "claims": [
+        "Edward Everett was chosen as the orator of the day at the ceremony on the battlefield of Gettysburg when Lincoln's most famous speech was spoken.",
+        "Edward Everett was a travelled man and a scholar.",
+        "Edward Everett was Secretary of State for a little while under Fillmore.",
+        "Edward Everett dealt honestly and firmly with the then troublous question of Cuba.",
+        "Lincoln's oration at Gettysburg was original compared to the eloquence which American taste applauded at the time.",
+        "A few days after Vicksburg and Gettysburg, Lincoln was concerned about the toes of the blacks in the Cow Island.",
+        "Lincoln asked whether Frederick Douglass could be induced to visit him."
+      ],
+      "temporal_details": {
+        "date": null,
+        "time": null
+      },
+      "tone": "Neutral"
+    }
+  },
+  {
+    "source_id": "book_18379",
+    "source_title": "Abraham Lincoln",
+    "source_type": "Book",
+    "event_id": "second_inaugural",
+    "event_name": "Second Inaugural Address",
+    "extraction": {
+      "event": "second_inaugural",
+      "author": "Lord Charnwood",
+      "claims": [
+        "The 'Second Inaugural' is a chief outstanding example of Abraham Lincoln's oratorical power.",
+        "Lincoln's oratory was individual and unlike that of most other great speakers in history.",
+        "The Second Inaugural uses the language of intense religious feeling more unreservedly than probably any other speech of a modern statesman.",
+        "The occasion of the Second Inaugural made the use of religious language natural.",
+        "Neither the thought nor the words of the Second Inaugural are conventional.",
+        "After Lincoln's burial service, the Second Inaugural was read over his grave.",
+        "The phrase 'with malice toward none, with charity toward all, with firmness in the right as God gave him to see the right' is quoted from the Second Inaugural."
+      ],
+      "temporal_details": {
+        "date": "May 4, 1865",
+        "time": null
+      },
+      "tone": "Supportive"
+    }
+  },
+  {
+    "source_id": "book_18379",
+    "source_title": "Abraham Lincoln",
+    "source_type": "Book",
+    "event_id": "ford_assassination",
+    "event_name": "Ford's Theatre assassination",
+    "extraction": {
+      "event": "ford_assassination",
+      "author": "Lord Charnwood",
+      "claims": [
+        "Lincoln regarded lawlessness and slavery as twin evils.",
+        "Lincoln compared John Brown's raid to historical assassination attempts on kings and emperors.",
+        "Lincoln stated that such attempts often end in little else than the execution of the perpetrator.",
+        "Washington was full of rumours of plots and intended assassinations at the start of the Civil War.",
+        "Washington was full of actual Southern spies during this period.",
+        "Lincoln found the arsenal with open doors, absolutely unguarded, during a nighttime walk.",
+        "By April 20, the Navy Yard at Gosport, Virginia, had to be abandoned.",
+        "By April 20, the Arsenal at Harper's Ferry had to be abandoned.",
+        "On the day the Arsenal at Harper's Ferry was abandoned, Lee went over to the South."
+      ],
+      "temporal_details": {
+        "date": "April 20",
+        "time": null
+      },
+      "tone": "Neutral"
+    }
+  },
+  {
+    "source_id": "loc_mal0440500",
+    "source_title": "Election Night 1860 Letter",
+    "source_type": "Letter",
+    "event_id": "election_night_1860",
+    "event_name": "Election Night 1860",
+    "extraction": {
+      "event": "election_night_1860",
+      "author": "Abraham Lincoln",
+      "claims": [
+        "Abraham Lincoln wrote a letter to Truman Smith on November 10, 1860.",
+        "Lincoln stated he will not issue a public statement to reassure the South."
+      ],
+      "temporal_details": {
+        "date": "1860-11-10",
+        "time": null
+      },
+      "tone": "Neutral"
+    }
+  },
+  {
+    "source_id": "loc_mal0440500",
+    "source_title": "Election Night 1860 Letter",
+    "source_type": "Letter",
+    "event_id": "fort_sumter",
+    "event_name": "Fort Sumter decision",
+    "extraction": {
+      "event": "fort_sumter",
+      "author": "Abraham Lincoln",
+      "claims": [
+        "Lincoln will not issue a public statement to reassure the South."
+      ],
+      "temporal_details": {
+        "date": "1860-11-10",
+        "time": null
+      },
+      "tone": "Neutral"
+    }
+  },
+  {
+    "source_id": "loc_gettysburg_nicolay_copy",
+    "source_title": "Gettysburg Address",
+    "source_type": "Speech",
+    "event_id": "election_night_1860",
+    "event_name": "Election Night 1860",
+    "extraction": {
+      "event": "election_night_1860",
+      "author": "Abraham Lincoln",
+      "claims": [
+        "This document represents the earliest known of the five drafts of the Gettysburg Address.",
+        "This document is presumed to be the only working, or pre-delivery, draft.",
+        "This document is commonly identified as the Nicolay Copy because it was once owned by John George Nicolay, Lincoln's private secretary."
+      ],
+      "temporal_details": {
+        "date": "November 19, 1863",
+        "time": null
+      },
+      "tone": "Neutral"
+    }
+  },
+  {
+    "source_id": "loc_gettysburg_nicolay_copy",
+    "source_title": "Gettysburg Address",
+    "source_type": "Speech",
+    "event_id": "fort_sumter",
+    "event_name": "Fort Sumter decision",
+    "extraction": {
+      "event": "fort_sumter",
+      "author": "Abraham Lincoln",
+      "claims": [
+        "This document represents the earliest known of the five drafts of what may be the most famous American speech.",
+        "This document is presumed to be the only working, or pre-delivery, draft.",
+        "It is commonly identified as the Nicolay Copy because it was once owned by John George Nicolay, Lincoln's private secretary."
+      ],
+      "temporal_details": {
+        "date": "November 19, 1863",
+        "time": null
+      },
+      "tone": "Neutral"
+    }
+  },
+  {
+    "source_id": "loc_gettysburg_nicolay_copy",
+    "source_title": "Gettysburg Address",
+    "source_type": "Speech",
+    "event_id": "gettysburg_address",
+    "event_name": "Gettysburg Address",
+    "extraction": {
+      "event": "gettysburg_address",
+      "author": "Abraham Lincoln",
+      "claims": [
+        "This document represents the earliest known of the five drafts of what may be the most famous American speech.",
+        "This document is presumed to be the only working, or pre-delivery, draft.",
+        "This document is commonly identified as the Nicolay Copy because it was once owned by John George Nicolay, Lincoln's private secretary."
+      ],
+      "temporal_details": {
+        "date": "1863",
+        "time": null
+      },
+      "tone": "Neutral"
+    }
+  },
+  {
+    "source_id": "loc_gettysburg_nicolay_copy",
+    "source_title": "Gettysburg Address",
+    "source_type": "Speech",
+    "event_id": "ford_assassination",
+    "event_name": "Ford's Theatre assassination",
+    "extraction": {
+      "event": "ford_assassination",
+      "author": "Abraham Lincoln",
+      "claims": [
+        "This document represents the earliest known of the five drafts of what may be the most famous American speech.",
+        "This document is presumed to be the only working, or pre-delivery, draft.",
+        "It is commonly identified as the Nicolay Copy because it was once owned by John George Nicolay, Lincoln's private secretary."
+      ],
+      "temporal_details": {
+        "date": "November 19, 1863",
+        "time": null
+      },
+      "tone": "Neutral"
+    }
+  },
+  {
+    "source_id": "loc_mal.4361300",
+    "source_title": "Second Inaugural Address",
+    "source_type": "Speech",
+    "event_id": "gettysburg_address",
+    "event_name": "Gettysburg Address",
+    "extraction": {
+      "event": "gettysburg_address",
+      "author": "Abraham Lincoln",
+      "claims": [
+        "The document is titled 'Second Inaugural Address'.",
+        "The speech was delivered by Abraham Lincoln.",
+        "The speech was given as a public address.",
+        "The speech took place in Washington, D.C.",
+        "The date of the speech is March 4, 1865.",
+        "The document is part of the Abraham Lincoln Papers at the Library of Congress.",
+        "The transcription was created by the Lincoln Studies Center, Knox College.",
+        "The transcription was made by the National Digital Library Program, Library of Congress.",
+        "The transcription is intended to have an accuracy rate of 99.95 percent or greater."
+      ],
+      "temporal_details": {
+        "date": "March 4, 1865",
+        "time": null
+      },
+      "tone": "Neutral"
+    }
+  },
+  {
+    "source_id": "loc_mal.4361300",
+    "source_title": "Second Inaugural Address",
+    "source_type": "Speech",
+    "event_id": "second_inaugural",
+    "event_name": "Second Inaugural Address",
+    "extraction": {
+      "event": "second_inaugural",
+      "author": "Abraham Lincoln",
+      "claims": [
+        "The document is titled 'Second Inaugural Address'.",
+        "The speech was delivered by Abraham Lincoln.",
+        "The speech was given as a public address.",
+        "The speech took place in Washington, D.C.",
+        "The date of the speech is March 4, 1865.",
+        "The document is part of the Abraham Lincoln Papers at the Library of Congress.",
+        "The transcription was created by the Lincoln Studies Center, Knox College.",
+        "The transcription was made available by the National Digital Library Program, Library of Congress.",
+        "The transcription aims for an accuracy rate of 99.95 percent or greater."
+      ],
+      "temporal_details": {
+        "date": "1865-03-04",
+        "time": null
+      },
+      "tone": "Neutral"
+    }
+  },
+  {
+    "source_id": "loc_mal.4361300",
+    "source_title": "Second Inaugural Address",
+    "source_type": "Speech",
+    "event_id": "ford_assassination",
+    "event_name": "Ford's Theatre assassination",
+    "extraction": {
+      "event": "ford_assassination",
+      "author": "Abraham Lincoln",
+      "claims": [
+        "The document is Abraham Lincoln's Second Inaugural Address.",
+        "The address was delivered on March 4, 1865.",
+        "The document is endorsed by Lincoln on April 10, 1865.",
+        "The document is part of the Abraham Lincoln Papers at the Library of Congress.",
+        "The transcription was created by the Lincoln Studies Center, Knox College.",
+        "The transcription was made by the National Digital Library Program, Library of Congress.",
+        "The transcription aims for an accuracy rate of 99.95 percent or greater.",
+        "The accompanying images provide a facsimile of the original work."
+      ],
+      "temporal_details": {
+        "date": "March 4, 1865",
+        "time": null
+      },
+      "tone": "Neutral"
+    }
+  },
+  {
+    "source_id": "loc_mal.4361800",
+    "source_title": "Last Public Address",
+    "source_type": "Letter",
+    "event_id": "election_night_1860",
+    "event_name": "Election Night 1860",
+    "extraction": {
+      "event": "election_night_1860",
+      "author": "E. B. Hall",
+      "claims": [
+        "E. M. Norton is or may be resigning as Marshal of the District Court of the United States for the District of West Virginia.",
+        "E. B. Hall recommends Samuel McCullough of Wheeling as Norton's successor.",
+        "Samuel McCullough is described as thoroughly loyal.",
+        "Samuel McCullough served over three years in the U.S. Army with honor, evidenced and acknowledged by promotions.",
+        "Samuel McCullough was reared in the Clerk's office of his County and is familiar with business.",
+        "Samuel McCullough is a good businessman.",
+        "There are or will be other applicants for the position who are known locally as Copperheads or Conservative Constitutional men.",
+        "People in the region want and need only thoroughly loyal sources in official positions.",
+        "In U.S. Courts in the region, further dilution of loyal elements is undesirable."
+      ],
+      "temporal_details": {
+        "date": "March 18, 1865",
+        "time": null
+      },
+      "tone": "Supportive"
+    }
+  },
+  {
+    "source_id": "loc_mal.4361800",
+    "source_title": "Last Public Address",
+    "source_type": "Letter",
+    "event_id": "fort_sumter",
+    "event_name": "Fort Sumter decision",
+    "extraction": {
+      "event": "fort_sumter",
+      "author": "E. B. Hall",
+      "claims": [
+        "E. M. Norton, Marshal of the District Court of the United States for the District of West Virginia, has resigned or is contemplating resigning.",
+        "E. B. Hall recommends Samuel McCullough of Wheeling as Norton's successor.",
+        "Samuel McCullough is described as thoroughly loyal.",
+        "Samuel McCullough has served over three years in the U.S. Army with honor, evidenced and acknowledged by promotions.",
+        "Samuel McCullough has been reared in the Clerk's office of his County and is familiar with business.",
+        "Samuel McCullough is a good businessman.",
+        "There are or will be applicants for the position who are known as Copperheads or Conservative Constitutional men in the region.",
+        "E. B. Hall asserts that only thoroughly loyal sources are wanted and needed in official positions in the region.",
+        "E. B. Hall expresses concern that dilution of loyal elements in U.S. Courts could be harmful."
+      ],
+      "temporal_details": {
+        "date": "1865-03-18",
+        "time": null
+      },
+      "tone": "Supportive"
+    }
+  },
+  {
+    "source_id": "loc_mal.4361800",
+    "source_title": "Last Public Address",
+    "source_type": "Letter",
+    "event_id": "gettysburg_address",
+    "event_name": "Gettysburg Address",
+    "extraction": {
+      "event": "gettysburg_address",
+      "author": "E. B. Hall",
+      "claims": [
+        "E. M. Norton is or may be resigning as Marshal of the District Court of the United States for the District of West Virginia.",
+        "E. B. Hall recommends Samuel McCullough of Wheeling as Norton's successor.",
+        "Samuel McCullough is described as thoroughly loyal.",
+        "Samuel McCullough has served over three years in the U.S. Army with honor, evidenced and acknowledged by promotions.",
+        "Samuel McCullough has been reared in the Clerk's office of his County and is familiar with business.",
+        "Samuel McCullough is a good businessman.",
+        "There are or will be applicants for the position who are known locally as Copperheads or Conservative Constitutional men.",
+        "E. B. Hall asserts that the region wants and needs only thoroughly loyal sources in official positions.",
+        "E. B. Hall expresses concern about dilution of loyal elements in U.S. Courts."
+      ],
+      "temporal_details": {
+        "date": "March 18, 1865",
+        "time": null
+      },
+      "tone": "Supportive"
+    }
+  },
+  {
+    "source_id": "loc_mal.4361800",
+    "source_title": "Last Public Address",
+    "source_type": "Letter",
+    "event_id": "second_inaugural",
+    "event_name": "Second Inaugural Address",
+    "extraction": {
+      "event": "second_inaugural",
+      "author": "E. B. Hall",
+      "claims": [
+        "E. M. Norton is or may be resigning as Marshal of the District Court of the United States for the District of West Virginia.",
+        "E. B. Hall recommends Samuel McCullough of Wheeling as Norton’s successor.",
+        "Samuel McCullough is described as thoroughly loyal.",
+        "Samuel McCullough served over three years in the U.S. Army with honor, evidenced by promotions.",
+        "Samuel McCullough was reared in the Clerk's office of his County and is familiar with business.",
+        "Samuel McCullough is a good businessman.",
+        "There are or will be other applicants for the position who are known locally as Copperheads or Conservative Constitutional men.",
+        "E. B. Hall asserts that only thoroughly loyal persons should hold official positions in the region.",
+        "E. B. Hall believes that dilution of loyal elements in U.S. Courts could be harmful."
+      ],
+      "temporal_details": {
+        "date": "1865-03-18",
+        "time": null
+      },
+      "tone": "Supportive"
+    }
+  },
+  {
+    "source_id": "loc_mal.4361800",
+    "source_title": "Last Public Address",
+    "source_type": "Letter",
+    "event_id": "ford_assassination",
+    "event_name": "Ford's Theatre assassination",
+    "extraction": {
+      "event": "ford_assassination",
+      "author": "E. B. Hall",
+      "claims": [
+        "E. M. Norton is or may be resigning as Marshal of the District Court of the United States for the District of West Virginia.",
+        "E. B. Hall recommends Samuel McCullough of Wheeling as Norton's successor.",
+        "Samuel McCullough is described as thoroughly loyal.",
+        "Samuel McCullough served over three years in the U.S. Army with honor, evidenced by promotions.",
+        "Samuel McCullough was reared in the Clerk's office of his County and is familiar with business.",
+        "Samuel McCullough is a good businessman.",
+        "There are or will be applicants for the position who are known locally as Copperheads or Conservative Constitutional men.",
+        "E. B. Hall asserts that only thoroughly loyal individuals should hold official positions in the region.",
+        "E. B. Hall believes that dilution of loyal elements in U.S. Courts could be harmful."
+      ],
+      "temporal_details": {
+        "date": "March 18, 1865",
+        "time": null
+      },
+      "tone": "Supportive"
+    }
+  }
+]
